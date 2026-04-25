@@ -148,7 +148,7 @@ def on_enter(event):
 # ─────────────────────────────────────────────
 root = tk.Tk()
 root.title("Irregular Verbs Transformer")
-root.geometry("600x600")
+root.geometry("600x700")
 root.resizable(False, False)
 root.config(bg="#1e1e2e", padx=30, pady=25)
 
